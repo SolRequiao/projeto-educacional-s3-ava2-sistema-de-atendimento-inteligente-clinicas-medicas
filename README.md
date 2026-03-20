@@ -1,5 +1,7 @@
 # 🏥 Sistema de Atendimento Inteligente para Clínicas Médicas
 
+🔗 Repositório: https://github.com/SolRequiao/projeto-educacional-s3-ava2-sistema-de-atendimento-inteligente-clinicas-medicas
+
 Aplicação web completa para gerenciamento de consultas médicas, com
 autenticação segura, integração com APIs externas e painel
 administrativo.
